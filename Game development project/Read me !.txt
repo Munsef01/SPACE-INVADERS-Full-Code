@@ -1,0 +1,2 @@
+ i didnt used any third paties app , you can play the game via pycharm by just installing the pygame interpretter.
+the file game development is the main file of the game .
